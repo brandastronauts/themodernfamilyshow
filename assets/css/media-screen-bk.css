@@ -1,0 +1,1196 @@
+@media(min-width: 767px) {
+    
+}
+
+@media (max-width: 1399px) {
+    .heroImg {
+        max-width: 880px;
+    }
+    .hero-section h1 {
+        font-size: 70px;
+    }
+    .who-we-are {padding-bottom: 380px;}
+
+
+}
+@media (max-width: 1299px) {
+     .testimonial h3 ,
+    h3{
+        font-size: 70px;
+    }
+    .why-created .attend_bg {
+        max-width: 630px;
+    }
+    .galler_section > div.wrap_2{
+        max-width: 52%;
+     }
+     .attend_family h2 {
+        font-size: 80px;
+     }
+     .about_wrapper .heroImg {
+        max-width: 70%;
+    }
+    .hero_txt_in {
+        max-width: 50%;
+    }
+    .about_wrapper  .hero_txt {
+        bottom: 80px;
+    }
+    .mission-row {
+        margin-right: 0;
+    }
+    .mission-left {
+        max-width: 50%;
+    }
+    .mission-right {
+        max-width: 48%;
+        margin-top: 30px;
+    }
+    .mission-icon {
+        bottom: 0;
+    }
+    .mission-icon.icon2 {
+        bottom: 130px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .header {padding: 20px 0;}
+    .heroImg {
+        max-width: 700px;
+    }
+    .got-this-slider .slide, .got-this-slider marquee {
+        font-size: 90px;
+    }
+    .hero_pattern a {
+        font-size: 32px;
+    }
+    .hero_pattern {
+        width: 198px;
+        height: 172px;
+    }
+    .hero_pattern:before {
+        width: 224px;
+        height: 193px;
+        background-size: contain;
+    }
+    
+     h3, .testimonial h3 ,
+    .hero-section h1 {
+        font-size: 54px;
+    }
+    .social-icon {
+        margin-bottom: 100px;
+    }
+    .who-we-are h3 {
+        padding-right: 10px;
+    }
+    .pinkDotted {
+        width: 180px;
+        bottom: 2%;
+    }
+     .who_img .who_pattern img {
+        max-width: 140px;
+    }
+    .who-we-are {
+        padding-bottom: 260px;
+    }
+    .h3_bg h3:before, .h3_bg2 h3:before, .head_sec h3:before, .testimonial h3:before {
+        display: none;
+    }
+    .event_sec h3:before ,
+      .testimonial h3:before ,
+    .gallery_sec h3:before{
+        display: block;
+    }
+    .why-created .attend_bg {
+        max-width: 50%;
+        bottom:60px;
+    }
+    .why-created .attend_img {
+        max-width: 510px;
+        margin-right: 100px;
+        margin-top: -45px;
+    }
+    .why-created {margin-bottom: 130px;}
+    .event_img {
+        height: 275px;
+    }
+    .artboard {
+        max-height: 950px;
+            bottom: -140px;
+    }
+    .artboard_right {
+        max-height: 790px;
+        bottom: -100px;
+    }
+
+    .event_sec {
+        margin-bottom: 160px;
+    }
+    /*.buy_btn {
+        max-width: 200px;
+    }*/
+    .event_detail {padding: 25px 20px;}
+    .g_img {
+        max-width: 45%;
+    }
+
+    .img_t_04 {
+        max-width: 38%;
+    }
+    .galler_section > div.wrap_2 .g_img{
+        max-width: 94%;
+    }
+    .img_t_01 {
+        height: 336px;
+        margin-right: 45px;
+    }
+    .img_t_02 {
+        height: 320px;
+    }
+    .g_icon {
+        max-width: 155px;
+    }
+    .galler_section_wrap .got-this-slider{
+        top:  482px;
+    }
+    .img_t_04 {
+        margin-right: 56px;
+        margin-top: 90px;
+    }
+    .p_icon2 {
+        top: 574px;
+        left: 31%;
+    }
+    .p_icon img {
+        max-width: 60px;
+    }
+    .gallery_sec {
+        padding-bottom: 120px;
+    }
+    .attend_family h2 {
+        font-size: 68px;
+        line-height: 1.15;
+    }
+    .attend_bg {
+        bottom: 60px;
+        max-width: 530px;
+    }
+    .attend_img {
+        max-width: 640px;
+        margin-top: -35px;
+    }
+    .play_video {
+        width: 140px;
+        height: 140px;
+
+    }
+    .attend_family {margin-bottom: 200px;}
+    .testimonial_txt p {
+        font-size: 22px;
+        line-height: 1.75;
+    }
+    .btm_left ul {
+        flex: 0 0 45%;
+        max-width: 45%;
+        width: 45%;
+    }
+
+
+    .contact_wrapper .heroImg {
+        max-width: 670px;
+    } 
+    .hero_txt_in {
+        max-width: 50%;
+    }
+    .map_view {
+        flex: 0 0 55%;
+        max-width: 55%;
+    }
+    .reach-us .green_line  {
+        bottom: 20px;
+    }
+
+
+    .about_wrapper .hero_txt_in p{
+        font-size: 16px;
+    }
+    .about_wrapper .hero_txt_in {
+        max-width: 46%;
+    }
+    .about-left {
+        flex: 0 0 55%;
+        max-width: 55%;
+        margin: 0;
+    }
+    .about-right {
+        flex: 0 0 45%;
+        max-width: 45%;
+        padding-left: 40px;
+    }
+    .top-sec {padding-bottom: 90px;}
+    .teamBox {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+        width: 33.33%;
+        margin: 0;
+    }
+    .teamBox a:nth-child(2) ,
+    .teamBox2 a:nth-child(2) ,
+    .teamBox3 a:nth-child(2) {
+        margin-left: 35px;
+
+        margin-top: -55px;
+    }
+    .teamBox  img {
+        max-width: 94%;
+    }
+    .meet-team .got-this-slider {
+        margin-bottom: 100px;
+    }
+    .core_value  h3 {
+        text-align: center;
+    }
+    .values_box {
+        flex: 0 0 25%;
+        max-width: 25%;
+        width: 25%;
+    }
+    .core_value .event_sec_head {margin-bottom: 50px;}
+    h6, .values_box h6 {font-size: 21px;}
+    .values_box p {
+        font-size: 16px;
+    }
+    .core_value {
+        padding-bottom: 90px;
+    }
+    .charity-partners {
+        margin-bottom: 100px;
+    }
+    .our-advocates {padding-bottom: 80px;}
+}
+
+
+
+@media (max-width: 991px) {
+
+    .logo {
+        max-width: 200px;
+    }
+    .heroImg {
+        max-width: 533px;
+        height: 540px;
+    }
+    .heroImg img {
+        width: 100%;height: 100%;
+        object-fit: cover;
+        object-position: left bottom;
+    }
+    .social-icon {
+        margin-top: 50px;
+    }
+    .got-this-slider .slide, .got-this-slider marquee {
+        font-size: 70px;
+    }
+    .hero_pattern a {
+        font-size: 27px;
+    }
+    h3, .testimonial h3, .hero-section h1 {
+        font-size: 48px;
+    }
+    .hero_pattern {
+        width: 165px;
+        height: 143px;
+    }
+    .hero_pattern:before {
+        width: 189px;
+        height: 161px;
+    }
+    .hero_pattern a {
+        font-size: 23px;
+    }
+    .social-icon p {
+        font-size: 30px;
+        margin-right: 30px;
+    }
+    .pinkDotted {
+        display: none;
+    }
+    .who-are-right {
+        padding-left: 15px !important;
+    }
+    .who-are-right .textIn {
+        max-width: 100%;
+        margin-top: 35px;
+    }
+    .who_img {
+        max-width: 525px;
+        margin: 0 auto;
+    }
+    .who_img .who_pattern img {
+        max-width: 129px;
+    }
+    .who-we-are {
+        padding-bottom: 150px;
+    }
+    .why-created .attend_img {margin-top: 0;}
+    .why-created .attend_pattern {
+        max-width: 160px;
+        left: 15px;
+    }
+    .event_wrap {
+        margin: 0 -15px;
+    }
+    .event_box {
+        max-width: 50%;
+    }
+    .event_img {
+        height: 245px;
+    }
+    .artboard {
+        max-height: 780px;
+        bottom: -111px;
+    }
+    .artboard_right {
+        max-height: 680px;
+        bottom: -65px;
+    }
+    .attend_family {
+        margin-bottom: 130px;
+    }
+    .galler_head {
+        max-width: 100%;
+        width: 100%;
+    }
+    .event_sec {
+        margin-bottom: 100px;
+    }
+    .event_sec h3:before, .testimonial h3:before, .gallery_sec h3:before {
+        display: none;
+    }
+    .event_sec .head_sec {
+        margin-bottom: 105px;
+    }
+    .galler_section {
+        padding-left: 0;
+    }
+    .g_img .g_icon {
+        max-width: 135px;
+    }
+    .img_t_05 .g_icon {
+        bottom: -60px;
+    }
+    .attend_family h2 {
+        font-size: 58px;
+    }
+    .attend_img {
+        max-width: 520px;
+        margin-top: 0;
+    }
+    .play_video {
+        width: 110px;
+        height: 110px;
+    }
+    .attend_bg {
+        max-width: 390px;
+    }
+    .attend_pattern {
+        max-width: 160px;
+    }
+    .testimonial_txt p {
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .testimonial_txt {
+        padding: 0 30px;
+    }
+    .testimonial_txt p:before {
+        width: 78px;
+        height: 71px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .btm_left ul {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .btm_left {padding-left: 0 !important;}
+    .footer .contact_us{padding-left: 15px;}
+
+    .gallery_sec {
+        padding-bottom: 90px;
+    }
+    .contact_wrapper .got-this-slider {
+        display: none;
+    }
+    .contact_wrapper .heroImg .pattern {
+        display: none;
+    }
+    .contact_wrapper .heroImg {
+        max-width: 67%;
+    }
+    .reach-us {
+        padding-top: 100px;
+    }
+
+    .mission-left ,
+    .mission-right {
+        max-width: 100%;
+        width: 100%;
+    }
+    .mission-icon {
+        display: none;}
+    .mission-icon.icon2 {
+        display: block;
+    }
+    .mission-right .attend_img {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+    .our_mission {
+        padding-bottom: 130px;
+    }
+    .values_box {
+        flex: 0 0 50%;
+        max-width: 50%;
+        width: 50%;
+        padding: 20px 15px;
+    }
+    .core_value .event_sec_head {margin-bottom: 0;}
+    .core_value h3 {margin-bottom: 35px;}
+    .charity-partners-list li {
+        max-width: 20%;
+        padding: 0 5px;
+        height: 110px;
+    }
+    .charity-partners-list {
+        -ms-flex-pack: center !important;
+        justify-content: center !important;
+    }
+    .charity-partners-list li img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .advocates_img {padding: 0 ; margin: 0 -15px;}
+    .ad_img {
+        padding: 0 15px;
+    }
+    .ad_icon2 {
+        bottom: 180px;
+    }
+    .charity-partners {
+        margin-bottom: 70px;
+    }
+    .meet-team .got-this-slider ,
+    .meetTeam {margin-bottom: 60px;}
+    .meet-team .team-head {
+        text-align: center !important; padding: 0;
+    }
+    .about_wrapper .hero_txt {
+        position: static;margin-top: -160px;
+    }
+    .about_wrapper .hero_txt_in {
+        max-width: 75%;
+    }
+    .about_wrapper  .hero-section {
+        padding-bottom: 120px;
+    }
+    .about_wrapper .hero-section .got-this-slider {
+        bottom: 0;
+    }
+    .about-left .ad_icon {
+        max-width: 80px;
+
+        right: 0;
+        top: 21px;}
+    .about-left .ad_icon1 {
+            max-width: 90px;
+    }
+    .about_wrapper .heroImg .pattern {
+        top:  150px;
+    }
+    .teamBox a {
+        max-width: 88%;
+    }
+    .about_wrapper .main-content {
+        padding-top: 20px;
+    }
+    .core_value {
+        padding-bottom: 60px;
+    }
+    .missionIcon {
+        bottom: -45px;
+        max-width: 150px;
+    }
+    .our_mission {
+        padding-bottom: 90px;
+    }
+    .buy_btn {margin-top: 7px;}
+    .testimonial h3 span {font-size: 21px;}
+}
+
+
+
+@media(max-width: 767px) {
+    .heroImg {
+        max-width: 410px;
+        height: 455px;
+    }
+    h3, .testimonial h3, .hero-section h1 {
+        font-size: 40px;
+    }
+    .social-icon {
+        padding-right: 0;
+    }
+    .got-this-slider .slide, .got-this-slider marquee {
+        font-size: 52px;
+    }
+    .hero_pattern {
+        width: 143px;
+        height: 125px;
+    }
+    .hero_pattern:before {
+        width: 165px;
+        height: 143px;
+    }
+    .social-icon {margin: 35px 0 60px;}
+    .who-we-are {
+        padding-bottom: 111px;
+    }
+    .green_line {
+        bottom: 18px;
+    }
+    .why-created .attend_img {
+    max-width: 447px;}
+    .event_box:nth-child(2n+2) ,
+    .event_box {
+        max-width: 100%;
+        max-width: 500px;
+        margin: 0 auto 35px;
+    }
+
+    .galler_head ,
+    .event_sec .head_sec {
+        margin-bottom: 45px;
+        text-align: center !important;
+    }
+    .g_img .g_icon {
+        max-width: 110px;
+    }
+    .img_t_01 {
+        height: 245px;
+        margin-right: 30px;
+    }
+    .g_img {margin-bottom: 60px;}
+    .img_t_02 {
+        height: 260px;
+        margin-top: 115px;
+        margin-bottom: 60px;
+
+    }
+    .img_t_04 {
+        margin-right: 35px;
+        margin-top: 50px;
+    }
+    .galler_section_wrap .got-this-slider {
+        top: 355px;
+    }
+    .attend_family h2 {
+        font-size: 48px;
+    }
+    .attend_img {
+        max-width: 460px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    .attend_family {
+        margin-bottom: 90px;
+    }
+    .testimonial h3 {margin: 0 0 45px; text-align: center;}
+    .testimonial_txt , .testimonial_profile {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+    .testimonial_txt {
+        height: auto;
+        padding: 60px 30px 35px;
+    }
+    .testimonial_profile {padding: 0; width: 100%;
+        font-size: 0;
+    }
+    .profile_in img {
+        max-width: 500px;
+        width: 100%;
+        height: 380px;
+        object-fit: cover;
+        object-position: top center;
+    }
+    .slick-next, .slick-prev {display: none !important;}
+    .slick-dots {left: 0; bottom: -56px;}
+    .testimonial {padding-bottom: 100px;}
+    .topfooter .social-icon.btm_row {margin:10px 0 25px 0;}
+    .play_video {
+        width: 90px;
+        height: 90px;
+    }
+    .add_loc ,
+    .map_view {
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin: 0;
+    }
+    .map_view {
+        height: 300px;
+    }
+    .add_loc {padding-left: 25px;}
+    .map-address p {
+        margin-bottom: 20px;
+    }
+    .reach-us p br {content: '';}
+    .reach-us h3 {margin-bottom: 25px}
+    .reach-us .green_line {display: none;}
+    .reach-us {
+        padding: 70px 0;
+    }
+    .reach-us .contact_form .btn {
+        height: 50px;
+        line-height: 50px;
+    }
+    .reach-us .contact_form .form-control {height: 50px;}
+    .social-icon h6 {
+        margin-bottom: 25px;
+    }
+    .contact_wrapper .heroImg {
+        max-width: 64%;
+    }
+    .contact_wrapper .hero_txt {
+        bottom: -50px;
+    }
+    .hero_txt_in {
+        max-width: 55%;
+    }
+    .contact_wrapper .hero-section{
+        margin-bottom: 100px;
+    }
+    .logo {
+        max-width: 170px;
+    }
+    .about_wrapper .heroImg .pattern {
+        max-width: 135px;
+        left: -50px;
+    }
+    .about_wrapper .hero_txt {margin-top: -135px;}
+    .meet-team .got-this-slider ,
+    .about_wrapper .hero-section .got-this-slider {display: none;}
+
+    .about_wrapper .hero-section {
+        padding-bottom: 50px;
+    }
+    body {
+        font-size: 16px;
+    }
+    .about-right ,
+    .about-left {
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin: 0;
+    }
+    .about-right {
+        padding-left: 25px;
+    }
+    .top-sec {
+        padding-bottom: 60px;
+    }
+    .meet-team .team-head {
+        margin-bottom: 50px;
+    }
+    .about_wrapper .hero_txt {
+        margin-top: 0;
+    }
+
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+    .close {
+        right: 20px;
+        top: 20px;
+    }
+    .thanks_txt p {font-size:17px;}
+}
+
+@media(max-width : 576px) {
+    .artboard {
+        max-width: 100%;
+    }
+    .attend_family h2 span:before ,
+    .p_icon ,
+    .who_img .who_pattern img ,
+    .g_img .g_icon ,
+    .why-created .attend_pattern ,
+    .why-created .attend_bg ,
+    .artboard_right {
+        display: none;
+    }
+    .m-scroll {
+        display: none !important;
+    }
+    .logo {
+        max-width: 104px;
+    }
+    .header {
+        padding: 15px 0;        height: 90px;        
+        background-color: #ffffff;
+        background: #f5ced9
+    }
+    .hero-section {
+        margin-top: 90px;
+    }
+     .heroImg {
+        max-width: 67%;
+        height: 310px;
+    }
+    .home_pg .heroImg {
+        max-width: 67%;
+        height: 270px;
+    }
+
+    .home_pg  .heroImg img {
+        object-fit: contain;
+        object-position: top center;
+     }
+    .hero_txt {
+        bottom: 40px;
+    }
+    h3, .testimonial h3, .hero-section h1 {
+        font-size: 28px;
+    }
+    .hero_pattern {
+        width: 122px;
+        height: 106px;
+    }
+    .hero_pattern:before {
+        width: 137px;
+        height: 118px;
+    }
+    .hero_pattern {
+        left: auto;
+        right: 20px;
+        bottom: -40px;
+    }
+    .social-icon p {
+        max-width: 100%;
+        flex: 0 0 100%;
+        width: 100%; margin: 0 0 10px;
+        font-size: 23px;
+            text-align: center;
+    }
+    .social-icon {
+        padding: 0 15px;
+        -ms-flex-pack: center  !important;
+        justify-content: center !important;
+        flex-wrap: wrap;
+    }
+    .social-icon ul li:last-child {margin-right: 0;}
+    .who-are-right p {padding-bottom: 20px;}
+    .know {
+        font-size: 17px;
+    }
+    .why-created h3 {margin-bottom: 25px;}
+    .why-created .attend_img {margin-right: 0;}
+    .event_img {
+        height: 210px;
+    }
+   /* .buy_btn {
+        max-width: 150px;
+    }*/
+    .event_detail {
+        padding: 15px;
+    }
+    .event_detail p {font-size: 14px;}
+    .event_sec {
+        margin-bottom: 60px;
+    }
+    .artboard {
+      bottom: -60px;
+    }
+    .galler_section > div.wrap_2 .g_img ,
+    .galler_section > div.wrap_2 ,
+    .img_t_02 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .g_img {
+        margin: 0 0 25px; width: 100%;
+        max-width: 100%;
+    }
+    .img_t_04 img {
+        max-height: 380px;
+    }
+    .attend_family h2 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .attend_bg {max-width: 66%;}
+    .attend_family {
+        margin-bottom: 60px;
+    }
+    .profile_in img {
+        max-width: 345px;
+    }
+    .testimonial_txt p {
+        font-size: 17px;
+    }
+    .testimonial_txt p:before {
+        width: 60px;
+        height: 54px;
+        top: -25px;
+    }
+    .testimonial_txt p {margin-bottom: 25px;}
+
+    .testimonial_txt p:after {
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 38px;
+        height: 35px;
+    }
+    .txt_wrap span {
+        font-size: 20px;
+    }
+    .topfooter {
+        text-align: center;
+    }
+    .top_left {margin-bottom: 15px;}
+    .topfooter {padding: 45px 0 35px;}
+    .top_row, .btm_row {margin: 0;}
+    .btm_left {padding-right: 0;}
+    .btm_left ul {margin-bottom: 0;}
+    .btm_row ul {
+        justify-content: center;
+    }
+    .contact_us{
+        margin-top: 25px;
+    }
+    .contact_us h4 {margin-bottom: 25px;}
+    .contact_us h4 {font-size: 24px;}
+    .hero_pattern a {
+        padding-left: 10px;
+        font-size: 18px;
+    }
+    .txt_wrap span ,
+    .testimonial_txt p {
+        font-weight: 500;
+    }
+    .txt_wrap span {
+        font-size: 18px;
+    }
+    .contact_wrapper .heroImg {
+        max-width: 85%;
+    }
+    .contact_wrapper .hero_txt {
+        bottom: auto;
+        position: relative;
+        margin-top: -35px;
+
+    }
+    .hero_txt_in{
+        max-width: 100%;
+    }
+    .contact_wrapper .hero-section .social-icon {
+        margin-top: 25px;
+        padding: 0;
+    }
+    .social-icon h6 {
+        margin-bottom: 15px;
+    }
+    .contact_wrapper .hero-section {margin-bottom: 40px;}
+    .add_loc, .map_view {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+        margin: 0;
+    }
+    .add_loc {
+        padding: 25px 0 0;
+    }
+    .reach-us {
+        padding: 50px 0;
+    }
+    .form_reach {
+        webkit-order: 1;
+        -ms-order: 1;
+        order: 1;
+        margin-bottom: 25px;
+    }
+    .form_sec {
+        -webkit-order: 2;
+        -ms-order: 2;
+        order: 2;
+    }
+    .footer {
+        padding-bottom: 5px;
+    }
+
+    .about_wrapper .hero_txt_in {
+        max-width: 100%;
+    }
+    .about_wrapper .heroImg {
+        max-width: 100%;
+        width: 345px;
+        
+    }
+    .about_wrapper .heroImg  img{
+        background-position: top left;
+    }
+    .about_wrapper .heroImg .pattern {
+        max-width: 105px;
+        left: 75px;
+    }
+    .about_wrapper .heroImg .pattern img {
+        object-fit: contain;
+        width: 100%;
+    }
+    .about_wrapper .hero-section {padding-bottom: 35px;}
+    .about-right, .about-left {
+        flex: 0 0 100%;
+        width: 100%;
+        max-width: 100%;
+    }
+    .about-right {
+        padding: 35px 0 0;
+    }
+    .teamBox {
+         flex: 0 0 100%;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        padding: 0;
+
+    }
+    .teamBox a {
+        max-width: 50%;
+        padding:  0 5px;
+        margin: 0 0 10px !important;
+    }
+     .teamBox a img {
+        max-width: 100%;
+        height: 100%;
+        object-fit: cover;
+     }
+    .meetTeam {margin: 0 0 35px;}
+    .mission-icon.icon2 {
+        display: none;
+    }
+    .mission-right .attend_img {
+        max-width: 100%;
+    }
+    .mission-right .play_video {
+        max-width: 60px;
+    }
+    .missionIcon {
+        max-width: 100px;
+    }
+    .values_box {
+         flex: 0 0 100%;
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 0;
+    }
+    .charity-partners h5 {
+        font-size: 24px;
+    }
+    .charity-partners h5 {
+        padding-bottom: 25px;
+    }
+    .charity-partners-list li {
+        max-width: inherit;
+    }
+    .charity-partners {
+        margin-bottom: 50px;
+    }
+    .ad_icon ,
+    .ad_icon2 {
+        display: none;
+    }
+    .advocates_img {
+        flex-wrap: wrap;
+    }
+    .ad_img {
+        flex: 0 0 80%;
+        max-width: 80%;
+        width: 80%;
+        margin: 0 auto 25px;
+    }
+    .our-advocates {padding-bottom: 30px;}
+    .meet-team .green_line {
+        display: none;
+    }
+    .meet-team .team-head {
+        margin-bottom: 35px;
+    }
+    .about_wrapper .hero_txt {
+        margin-top:0;
+        text-align: center;
+    }
+    .green_line {
+        max-width: 60px;
+    }
+    .who-we-are {
+        padding-bottom: 71px;
+    }
+    .who_img .who_pattern img {
+        display: block;
+        max-width: 60px;
+    }
+    .green_pat {
+        bottom: 0;
+    }
+    .why-created .attend_bg {
+        display: block;
+        bottom: 90px;
+    }
+    .buy_btn {
+        height: 44px;
+        line-height: 44px;
+    }
+    .event_box:last-child {
+        margin-bottom: 0;
+    }
+    .values_icon {margin-bottom: 15px;}
+    h6, .values_box h6 {
+        font-size: 19px;
+    } 
+    .our-advocates h3 {margin-bottom: 25px;}
+    .ad_icon {
+        display: block;
+        max-width: 40%;
+        right: -20%;
+    }
+    .ad_icon2 {
+        display: block;
+        max-width: 20%;
+        bottom: 40%;
+    }
+    .contact_wrapper .heroImg .pattern {
+        display: block;
+        left: -20%;
+        max-width: 30%;
+    }
+    .map_view {
+        height: 260px;
+    }
+    .top-sec , .our_mission  , .our-advocates, 
+    .who-we-are , .form_reach ,
+    .attend_family {
+        text-align: center;
+    } 
+    .reach-us .contact_form .btn {
+        margin: 0 auto;
+         display: block;
+    }
+    header.header.sticky .logo img {
+        max-width: 104px;
+    }
+    .contact_form {margin: 0 auto;}
+    .thanks_txt, .buyNow_form_in {
+        padding: 25px 15px;
+        padding-top: 210px;
+    }
+    .header .btn {
+        padding: 0 8px;
+        width: auto;
+    }
+     .testimonial h3 span {font-size: 18px;}
+     .buyNow_form_in h3 {font-size: 1.5em;}
+     .buy_ticket_btm {margin: 25px auto;}
+     .teamBox a {
+        max-height: 250px;
+     }
+      .teamBox a img {
+        width: 100%; height: 100%; object-fit: cover;
+     }
+}
+
+@media(max-width : 360px) {
+    .teamBox a {
+        max-height: 140px;
+     }
+
+    .about_wrapper .hero_txt_in p,
+    body {
+        font-size: 15px;
+    }
+    .heroImg {
+        height: 284px;
+    }
+    h3, .testimonial h3, .hero-section h1 {
+        font-size: 24px;
+    }
+    .social-icon {
+        margin-top: 60px;
+    }
+    .hero_pattern:before {
+        width: 122px;
+        height: 106px;
+    }
+    .hero_pattern {
+        width: 106px;
+        height: 92px;
+    }
+    .event_detail {
+        text-align: center;
+    }
+    .event_time {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+    .buy_btn {
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .event_img {
+        height: 175px;
+    }
+    .img_t_01 {
+        height: 200px;
+    }
+    .img_t_02 {
+        height: 215px;
+    }
+    .img_t_04 img {
+        max-height: 320px;
+    }
+    .play_video {
+        width: 60px;
+        height: 60px;
+    }
+    .profile_in img {max-width: 290px; height: 320px;}
+    .btm_left ul li {
+        padding-bottom: 15px;
+    }
+    .topfooter p {
+        margin-bottom: 20px;
+    }
+    .testimonial_txt p {
+        font-weight: 500;
+        font-size: 15px;
+    }
+    .gallery_sec {
+        padding-bottom: 60px;
+    }
+    .charity-partners-list li {
+        max-width: 50%;
+    }
+    .attend_family h2 {
+        font-size: 26px;
+    }
+    .header .btn {font-size: 12px; padding: 0 10px;}
+    .testimonial h3 span {font-size: 14px;}
+}
+
+
