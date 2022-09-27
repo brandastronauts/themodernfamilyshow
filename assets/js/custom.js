@@ -93,3 +93,23 @@
    
 
 })(jQuery);
+
+$(function(){
+  $("header").load("assets/includes/header.html"); 
+  $("footer").load("assets/includes/footer.html"); 
+
+  setTimeout(() => {
+    var CurrentUrl= document.URL;
+    var CurrentUrlEnd = CurrentUrl.split('/').filter(Boolean).pop();
+    console.log(CurrentUrlEnd);
+    $( ".menu li a" ).each(function() {
+          console.log('HI')
+          var ThisUrl = $(this).attr('href');
+          var ThisUrlEnd = ThisUrl.split('/').filter(Boolean).pop();
+          console.log(ThisUrlEnd)
+          if(ThisUrlEnd == CurrentUrlEnd){
+          $(this).closest('li').addClass('active')
+          }
+    });
+  }, 800);
+});
