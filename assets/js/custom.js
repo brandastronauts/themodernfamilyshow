@@ -1,10 +1,6 @@
 (function ($) {
   $(document).ready(function () {
     
-    $('#nav-icon1').click(function() {
-        $(this).toggleClass('open');
-        $('.menu').slideToggle();
-    });
 
       $('.testimonial_txt').slick({
         slidesToShow: 1,
@@ -111,5 +107,10 @@ $(function(){
           $(this).closest('li').addClass('active')
           }
     });
+    
+    $('#nav-icon1').click(function() {
+      $(this).toggleClass('open');
+      $('.menu').slideToggle();
+  });
   }, 800);
 });
