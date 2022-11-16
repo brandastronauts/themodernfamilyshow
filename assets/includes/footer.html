@@ -124,27 +124,28 @@
 
                                 <h4 class="wow fadeInDown"  data-wow-delay="0.s">Contact us</h4>
 
-                                <form class="contact_form">
+                                <form class="contact_form" id="contact_form3">
+                                <!-- action="/your_url" method="post" -->
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.4s">
 
-                                        <input type="text" class="form-control" placeholder="Your Name" />
+                                        <input type="text" required class="form-control" id="contact_name" placeholder="Your Name" name="contact_name" />
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.3s">
 
-                                        <input type="email" class="form-control" placeholder="Your Email" />
+                                        <input type="email" required class="form-control" id="contact_email" placeholder="Your Email" name="contact_email" />
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.2s">
 
-                                        <textarea class="form-control" ></textarea>
+                                        <textarea class="form-control" required id="contact_message" name="contact_message"></textarea>
 
                                     </div>
 
-                                    <input type="submit" value="Submit" class="btn wow fadeInDown" data-wow-delay="0.1s" />
+                                    <input type="submit" value="Submit" class="btn wow fadeInDown contactsubmitbtn" data-wow-delay="0.1s" />
 
                                 </form>
 
@@ -173,3 +174,6 @@
                 </div>
 
             </div>
+
+
+	<script src="assets/js/contactform.js"></script>

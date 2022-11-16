@@ -246,27 +246,27 @@
 
                             <div class="col-sm-6 form_sec">
 
-                                <form class="contact_form">
+                                <form class="contact_form" id="contact_form1">
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.4s">
 
-                                        <input type="text" class="form-control" placeholder="Your Name">
+                                        <input type="text" class="form-control" id="contact_name1" placeholder="Your Name" name="contact_name">
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.3s">
 
-                                        <input type="email" class="form-control" placeholder="Your Email">
+                                        <input type="email" class="form-control" id="contact_email1" placeholder="Your Email" name="contact_email" >
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.2s">
 
-                                        <textarea class="form-control"></textarea>
+                                        <textarea class="form-control" id="contact_message1" name="contact_message"></textarea>
 
                                     </div>
 
-                                    <input type="submit" value="Submit" class="btn wow fadeInDown" data-wow-delay="0.1s"">
+                                    <input type="submit" value="Submit" class="btn wow fadeInDown" data-wow-delay="0.1s">
 
                                 </form>
 
@@ -374,7 +374,7 @@
 
                                          <li><a href="https://www.themodernfamilyshow.com/london2022.html">London 22</a></li>
 
-                                         <li><a href="https://www.themodernfamilyshow.com/san-francisco2023.html">San Francisco 22</a></li>
+                                         <li><a href="https://www.themodernfamilyshow.com/san-francisco2022.html">San Francisco 22</a></li>
 
                                     </ul>
 
@@ -432,27 +432,28 @@
 
                                 <h4 class="wow fadeInDown"  data-wow-delay="0.s">Contact us</h4>
 
-                                <form class="contact_form">
+                                <form class="contact_form" id="contact_form3">
+                                <!-- action="/your_url" method="post" -->
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.4s">
 
-                                        <input type="text" class="form-control" placeholder="Your Name" />
+                                        <input type="text" required class="form-control" id="contact_name" placeholder="Your Name" name="contact_name" />
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.3s">
 
-                                        <input type="email" class="form-control" placeholder="Your Email" />
+                                        <input type="email" required class="form-control" id="contact_email" placeholder="Your Email" name="contact_email" />
 
                                     </div>
 
                                     <div class="form-group wow fadeInDown" data-wow-delay="0.2s">
 
-                                        <textarea class="form-control" ></textarea>
+                                        <textarea class="form-control" required id="contact_message" name="contact_message"></textarea>
 
                                     </div>
 
-                                    <input type="submit" value="Submit" class="btn wow fadeInDown" data-wow-delay="0.1s" />
+                                    <input type="submit" value="Submit" class="btn wow fadeInDown contactsubmitbtn" data-wow-delay="0.1s" />
 
                                 </form>
 
@@ -536,6 +537,7 @@
 	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.3/dist/jquery.fancybox.min.js"></script>
+	<!--<script src="assets/js/contactform.js"></script>-->
 	<script src="assets/js/wow.js"></script>
     <script src="assets/js/slick.min.js"></script>
 	<script src="assets/js/custom.js"></script>
