@@ -1,13 +1,11 @@
 @media(min-width: 992px) {
-
     #nav-icon1{display: none !important;}
-
     .menu{ display: block !important;}
-
 }
 
-
-
+@media (max-width:1499px) and (min-width:768px) {
+    .hero_txt_in { padding-right: 16%;}
+}
 @media (max-width: 1399px) {
 
     .heroImg {
@@ -121,8 +119,6 @@
 
 
 }
-
-
 
 @media (max-width: 1199px) {
 
@@ -573,12 +569,6 @@
     }
 
 }
-
-
-
-
-
-
 
 @media (max-width: 991px) {
 
@@ -1414,14 +1404,6 @@
 
 }
 
-
-
-
-
-
-
-
-
 @media(max-width: 767px) {
 
      .heroImg {
@@ -1935,10 +1917,9 @@
         font-size: 42px;
 
     }
+    .about_wrapper .hero_txt_in { max-width: none; }
 
 }
-
-
 
 @media(max-width : 576px) {
 
@@ -2362,13 +2343,6 @@
 
     }
 
-
-
-    .about_wrapper .hero_txt_in {
-
-        max-width: 100%;
-
-    }
 
     .about_wrapper .heroImg {
 
@@ -2801,8 +2775,6 @@
     }
 
 }
-
-
 
 @media(max-width : 360px) {
 
