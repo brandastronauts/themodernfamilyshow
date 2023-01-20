@@ -121,9 +121,7 @@ body {
     line-height: normal;
 
     font-weight: 400;
-
-    
-
+    overflow-x:hidden ;
 }
 
 p {
